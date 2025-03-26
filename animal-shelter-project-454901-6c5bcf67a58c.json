@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "animal-shelter-project-454901",
+  "private_key_id": "6c5bcf67a58c56dfbb569947f56419b83bb448b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpGWcJZyr9HWK6\n8GwlRz7QKzOYqr66DJWsi+J4nz4Eueu3PU+ojOpU8juT8wAESdCNf7T9YTiAEljo\nm5S/saJsyvEDTc+vGOW5VQTrdV/bg11NgvVpa7808ExnDwSrNIM0RVEbwCet1Uxo\nQwpR42XU8VYioR41l18xSq/BTSUeliPqfkLtiuM2TswLeb2X5Ze+yRdZ3XsY/10P\nvyuxiCvmFHKuDgm3KebpexEdcKvSz/rboR4ze2Hy8QQ3kRFkVEAZXow+7KAvnQKF\nzKlnL/EFxfx2VDZnrbTNGEXlNQrjb9AKmEWuSxElqJ9S3u2dclViFwgy+QYYcqdA\nQV0cJLqZAgMBAAECggEAEpjMF6EkfazHKGb7hcgFlPBDXuVcT2rF5TGHKRvePrfR\nwBe6lH9W4Bu5yKYfWNljWcRzO7B+/brG02IU5FYdVlilU+cxUYDr9stuXJTOg345\neyZNZhgm8aQByw3ARjHiwhNjfalO09PS8N56mpHnJ5mZDvroLx2kJvAfTyN0Ux4j\nMKI9Y6Izjd1emNkj6SgvJBZpeIf3tsuCXGttKAYkCdH2yMEJAbXosTvn9CPjMr0k\nOKp7eP3i6uNelcov1OPi6v+bQCHVnzYrX3Z3PGfDAj1LAMNSHu/2W34txVwpjHu1\nzM5ivytmIyiSpLqcx7WqjG1K4bVpNuIpBEIVz+X+hwKBgQDWtSUb3vXOBxdpnB+w\na+zL2J9zX4oIXVQVJwN5k6yq8fniANuHu1tBtx1OuSwoxo5Tpo8+v3l5RDA1wDIi\nrXktTkKFv7CH4nS6f78L9Kmgi5C1LZGekyOmFrIqnLVESp8Emmdj1TY2OsQVLad1\nCdnKyQn0aI1oEbLc/NJTE0i6JwKBgQDJnsmfCwuHzOvkJBjmtl3WEMPpzzDctgyY\noKfkN6IjmCn1b1kf+qxxwsNxOulytHFI8qkfq++6BO3BlczyZ80sud1F45/7WiWU\nNM0kTFMU90sz2oRMM7nfa88AUr+kMSnLS6vYeBfGR3tt82AD3m90e/ePUv8g62eD\nI/FjymOdPwKBgA+o7qf1vx/jzIVbacRIWuETT63ujfbGN9fDHLHFX5aoR32AaoKf\n26wTWwPe5aWjtcXMJC6DcKyzmICTIBT/ahMv3hI7RPjkP3dK0fhhQ+39v/Q2+qQC\nP1th1GTfQSlV9/sx99CEQIv8BUk2JzyWF1h/CUbWSVoJ0G3l0sFUar2JAoGBAKkI\nFsDf4arYgmuiV74U5laxd45txelENws+pYMPoT92MrcxwuasoiY9wt0LJuyjmtYt\nmtySqUirGSlTDZ+sprb4nCoby+ROj3LRUas80eqh6MpwSLoaI5rMJ599wG1HSmLF\n7ixtgoEZLMHhaH3V3lsqE0J1sq9GrGGloJqo8xrBAoGAIcqlaYwkZtMwzKxWKdxl\nVrc7LRsRNj/F6bYYR4vde4fyKJ1wSFb4XT8oS2J3OJeDBMXoH7Nb5dBdN7NHB1Vk\nA7D11/cOqtqRvQkNcKvrviK7uxv2FUWIqmP3uJ5Z46SENY/PtjH0uVnpH/hJN5ov\naZ8dbwNU9CuiMRVLh4FBStw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "animal-shelter-access@animal-shelter-project-454901.iam.gserviceaccount.com",
+  "client_id": "115468538689158895549",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/animal-shelter-access%40animal-shelter-project-454901.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
